@@ -2,7 +2,8 @@
 # exercism
          author:  Charles J McDonald «https://github.com/cjmcdonald42»
            date:  2026.05.02
-    description:  My work using exercism.io to learn new programming languages and practice my coding skills.
+    description:  My work using exercism.io to learn new programming languages and
+                  practice my coding skills.
 
 
 ![Static Badge](https://img.shields.io/badge/exercism.io-%236f2ff5?logo=exercism&logoColor=%23FFFFFF)
