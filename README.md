@@ -1,6 +1,6 @@
 
 # exercism
-         author:  Charles J McDonald «https://github.com/cjmcdonald42»
+         author:  Charles J McDonald
            date:  2026.05.02
     description:  My work using exercism.io to learn new programming languages and
                   practice my coding skills.
