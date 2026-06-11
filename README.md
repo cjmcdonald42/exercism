@@ -1,7 +1,7 @@
 
 # exercism
          author:  Charles J McDonald
-           date:  2026.06.10
+           date:  2026.06.11
     description:  My work using exercism.io to learn new programming languages and
                   practice my coding skills.
 
